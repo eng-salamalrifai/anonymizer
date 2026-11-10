@@ -1,0 +1,2 @@
+John Smith works at Google in London.
+Later, John Smith met Maria Garcia at Microsoft in Paris.

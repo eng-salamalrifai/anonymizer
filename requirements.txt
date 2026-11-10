@@ -1,0 +1,7 @@
+transformers
+torch
+faker
+python-docx
+streamlit
+gliner      # NuNER Zero (Day 4)
+pytest

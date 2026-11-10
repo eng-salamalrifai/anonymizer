@@ -1,0 +1,2 @@
+PER_1 works at ORG_1 in LOC_1.
+Later, PER_1 met PER_2 at ORG_2 in LOC_2.

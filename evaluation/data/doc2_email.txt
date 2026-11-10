@@ -1,0 +1,7 @@
+Hi [[Tom|PER]],
+
+Thanks for sending the contract. I spoke with [[Sarah Johnson|PER]] from [[Acme Corp|ORG]] yesterday, and she confirmed the delivery to our warehouse in [[Rotterdam|LOC]] will arrive next week. Could you forward the invoice to [[David Chen|PER]] at [[Siemens|ORG]]? He is based in [[Munich|LOC]] but travels to [[Amsterdam|LOC]] often.
+
+Best regards,
+[[Lena Novak|PER]]
+[[Northwind Logistics|ORG]], [[The Hague|LOC]]
